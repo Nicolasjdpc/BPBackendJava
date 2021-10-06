@@ -1,0 +1,6 @@
+com\Trainee\config\SwaggerConfig.class
+com\Trainee\model\Transacction.class
+com\Trainee\DemoTcsApplication.class
+com\Trainee\rest\GetTransaccion.class
+com\Trainee\services\ServicioTransaction.class
+com\Trainee\repository\ServicioTransaccion.class
